@@ -1,0 +1,82 @@
+{
+    "Episode 0": [
+        "Prologue", 
+        "intro001", 
+        1
+    ], 
+    "Episode 1": [
+        "The First Proposals", 
+        "episode01", 
+        1
+    ], 
+    "Episode 2": [
+        "Down The Rabbit Hole", 
+        "episode02", 
+        2
+    ], 
+    "Episode 3": [
+        "Proper Introductions", 
+        "episode03", 
+        3
+    ], 
+    "Episode 4": [
+        "This Is My Town", 
+        "episode04", 
+        4
+    ], 
+    "Episode 5": [
+        "The Spotlight", 
+        "episode05", 
+        5
+    ], 
+    "Episode 6": [
+        "Tribute", 
+        "episode06", 
+        6
+    ], 
+    "Episode 7": [
+        "This One Is For Harlow", 
+        "episode07", 
+        7
+    ], 
+    "Episode 8": [
+        "Calm Down", 
+        "episode08", 
+        8
+    ], 
+    "Episode 9": [
+        "The Reset Button", 
+        "episode09", 
+        9
+    ], 
+    "Episode 10": [
+        "Opportunity Knocks", 
+        "episode10", 
+        10
+    ], 
+    "Episode 11": [
+        "Hope", 
+        "episode11", 
+        11
+    ], 
+    "Episode 12": [
+        "How Do I Play The Old Town Blues", 
+        "episode12", 
+        12
+    ], 
+    "Episode 13": [
+        "The Study Of Matter", 
+        "episode13", 
+        13
+    ], 
+    "Episode 14": [
+        "Louder Than Words", 
+        "episode14", 
+        14
+    ], 
+    "Episode 15": [
+        "The Slow Foxtrot", 
+        "episode15", 
+        15
+    ]
+}
